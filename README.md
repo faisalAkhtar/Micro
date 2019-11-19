@@ -6,3 +6,13 @@
 5. Add and subtract two arrays
 6. Binary to ASCII conversion
 7. ASCII to Binary conversion
+
+### Compilation
+<b>Windows</b>
+```
+mount X ~/Desktop/myFolder
+X:
+TASM P1.ASM
+TLINK P1.OBJ
+P1.exe
+```
